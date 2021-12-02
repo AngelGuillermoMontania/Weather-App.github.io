@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+
+:root {
+    --letra: 'Averia Gruesa Libre', cursive;
+    --colorFont: #265412;
+}
+
+body {
+    background-image: url('../img/1920x1080_px_landscape-708943.jpg');
+    background-size: cover;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.App #conteinCard{
+    height: 17rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
