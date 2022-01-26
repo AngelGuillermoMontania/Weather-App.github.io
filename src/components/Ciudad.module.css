@@ -1,6 +1,7 @@
 .ciudad {
-    margin-top: 6rem;
-    color: white;
+    margin-top: 1rem;
+    color: black;
+    text-shadow: white 0px 0px 3px;
 }
 
 .ciudad h1 {

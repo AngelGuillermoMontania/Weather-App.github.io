@@ -8,6 +8,8 @@
 body {
     background-image: url('../img/1920x1080_px_landscape-708943.jpg');
     background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
 }
 
 .App {
